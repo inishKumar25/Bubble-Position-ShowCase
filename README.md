@@ -2,4 +2,5 @@
 
 🫧 Bubble Position  
 A 2D puzzle-platformer built in 7 days featuring a teleportation bubble mechanic.  
-(Repository private due to coursework)
+
+🎮 Play the game: https://inish.itch.io/bubble-position
